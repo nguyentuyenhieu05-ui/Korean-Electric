@@ -1,0 +1,6 @@
+{
+  "name": "Kora Electronics",
+  "description": "Website bán hàng đồ điện tử chính hãng với giỏ hàng, thanh toán, quản lý đơn hàng và quản trị sản phẩm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
